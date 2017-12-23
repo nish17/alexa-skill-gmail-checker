@@ -1,0 +1,47 @@
+{
+  "session": {
+    "new": true,
+    "sessionId": "SessionId.6dca7b11-6979-4fc5-b129-0980047bf55b",
+    "application": {
+      "applicationId": "amzn1.ask.skill.ef4cf60b-b0bb-432d-b767-e9504d4579d2"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AHFZLLJTESAQQZNR6BHPAINAH7WG7R5AOXM6VR4DHMA6DZLC46KMH66EEKAT6NXGJ5M2OFTEAADTZN4ORXDTWXVUEH3LWFF7ZBLEX2IXIXXZ6IGHQALJ7NPGYUNJY4HMZLA54IDYYGGFOJGVS6J7V4FHLE7MB6SEOCETHRNFXXWWXDUZGNOEU66FJVUIGHY7H6KCVP3LADFOEGQ",
+      "accessToken": "ya29.Glv5BMLxVsVnDy7rvEVAVDYvfH8bqb7_5_3XQV0vOV8Ka0Z7nQzTQYi9K0JvMoxMh78OEWyFYmxEKFyth7XNK4gVLRBUu_9hNr1ffi_yO0IfuB9jFqj3or0wIugp"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.e3bc3196-9321-414f-9f5e-6430bb759fb5",
+    "intent": {
+      "name": "emailCheckByName",
+      "slots": {
+        "senderName": {
+          "name": "senderName",
+          "value": "dad"
+        }
+      }
+    },
+    "locale": "en-US",
+    "timestamp": "2017-11-04T10:21:45Z"
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.ef4cf60b-b0bb-432d-b767-e9504d4579d2"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AHFZLLJTESAQQZNR6BHPAINAH7WG7R5AOXM6VR4DHMA6DZLC46KMH66EEKAT6NXGJ5M2OFTEAADTZN4ORXDTWXVUEH3LWFF7ZBLEX2IXIXXZ6IGHQALJ7NPGYUNJY4HMZLA54IDYYGGFOJGVS6J7V4FHLE7MB6SEOCETHRNFXXWWXDUZGNOEU66FJVUIGHY7H6KCVP3LADFOEGQ",
+        "accessToken": "ya29.Glv5BMLxVsVnDy7rvEVAVDYvfH8bqb7_5_3XQV0vOV8Ka0Z7nQzTQYi9K0JvMoxMh78OEWyFYmxEKFyth7XNK4gVLRBUu_9hNr1ffi_yO0IfuB9jFqj3or0wIugp"
+      },
+      "device": {
+        "supportedInterfaces": {}
+      }
+    }
+  },
+  "version": "1.0"
+}

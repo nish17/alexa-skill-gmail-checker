@@ -1,0 +1,8 @@
+any email from {senderName}
+any mail from {senderName}
+is there any mail from {senderName}
+any updates from {senderName}
+is there any reply from {senderName}
+any reply from {senderName}
+mail from {senderName}
+new mail from {senderName}
